@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lecoursonnois@gmail.com
+	name = antoine lecoursonnois
